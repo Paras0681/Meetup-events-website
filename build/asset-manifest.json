@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Meetup-website-using-React/static/css/main.25d348dc.chunk.css",
+    "main.js": "/Meetup-website-using-React/static/js/main.8d5f795e.chunk.js",
+    "main.js.map": "/Meetup-website-using-React/static/js/main.8d5f795e.chunk.js.map",
+    "runtime-main.js": "/Meetup-website-using-React/static/js/runtime-main.6f96e513.js",
+    "runtime-main.js.map": "/Meetup-website-using-React/static/js/runtime-main.6f96e513.js.map",
+    "static/js/2.e944c9be.chunk.js": "/Meetup-website-using-React/static/js/2.e944c9be.chunk.js",
+    "static/js/2.e944c9be.chunk.js.map": "/Meetup-website-using-React/static/js/2.e944c9be.chunk.js.map",
+    "index.html": "/Meetup-website-using-React/index.html",
+    "static/css/main.25d348dc.chunk.css.map": "/Meetup-website-using-React/static/css/main.25d348dc.chunk.css.map",
+    "static/js/2.e944c9be.chunk.js.LICENSE.txt": "/Meetup-website-using-React/static/js/2.e944c9be.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6f96e513.js",
+    "static/js/2.e944c9be.chunk.js",
+    "static/css/main.25d348dc.chunk.css",
+    "static/js/main.8d5f795e.chunk.js"
+  ]
+}
